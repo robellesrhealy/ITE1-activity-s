@@ -1,0 +1,16 @@
+
+body {
+    font-family: ALGERIAN, ALGERIAN, verdana, sans-serif;
+    background-color: pink;
+}
+div {
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    border-color: yellow;
+    border-style: solid;
+}
+h1 {
+    font: bold italic 56px ALGERIAN, Geneva, verdana, sans-serif;
+    border: 4px dotted yellow;
+}
